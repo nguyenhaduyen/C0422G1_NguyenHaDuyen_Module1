@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ce6dc1-6647-4e92-a89c-6a9280c1d068" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/thuc_hanh_su_sung_html_co_ban.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss4_git-html/bai_tap_tao_danh_sach.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,8 @@
       <workItem from="1651216244081" duration="11000" />
       <workItem from="1651216277431" duration="11000" />
       <workItem from="1651724203948" duration="919000" />
+      <workItem from="1651732398737" duration="2172000" />
+      <workItem from="1651734625404" duration="30000" />
     </task>
     <servers />
   </component>
@@ -80,5 +82,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
