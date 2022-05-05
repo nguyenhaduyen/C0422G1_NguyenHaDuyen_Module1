@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ce6dc1-6647-4e92-a89c-6a9280c1d068" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss4_git-html/cv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuc_hanh_su_sung_html_co_ban.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss4_git-html/thuc_hanh_su_sung_html_co_ban.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\C0422G1-nguyen ha duyen\module1\ss4_git-html" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -68,6 +72,7 @@
       <workItem from="1651734625404" duration="30000" />
       <workItem from="1651734739771" duration="424000" />
       <workItem from="1651735240406" duration="2108000" />
+      <workItem from="1651737446454" duration="25000" />
     </task>
     <servers />
   </component>
