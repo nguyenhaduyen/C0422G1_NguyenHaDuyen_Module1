@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ce6dc1-6647-4e92-a89c-6a9280c1d068" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss5_form_table/tao_form_don_gian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_form_table/tao_form_don_gian_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss5_form_table/tao_form_lay_survey_khach_hang.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nhapmonlaptrinhcoban/baitap/abc.txt.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,9 @@
       <workItem from="1651807714952" duration="2051000" />
       <workItem from="1651809923611" duration="1694000" />
       <workItem from="1651811780496" duration="4389000" />
-      <workItem from="1651818646560" duration="11049000" />
+      <workItem from="1651818646560" duration="13660000" />
+      <workItem from="1651838359040" duration="2139000" />
+      <workItem from="1651843826035" duration="452000" />
     </task>
     <servers />
   </component>
@@ -96,5 +98,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="373" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1651830614522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="373" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1651830614522" />
   </component>
 </project>
