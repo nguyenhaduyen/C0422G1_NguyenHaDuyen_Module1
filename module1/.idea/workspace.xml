@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ce6dc1-6647-4e92-a89c-6a9280c1d068" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss5_form_table/tao_form_lay_survey_khach_hang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss5_form_table/tao_bang_don_gian.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nhapmonlaptrinhcoban/baitap/abc.txt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_form_table/ggg.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +81,7 @@
       <workItem from="1651818646560" duration="13660000" />
       <workItem from="1651838359040" duration="2139000" />
       <workItem from="1651843826035" duration="452000" />
+      <workItem from="1651976230569" duration="3606000" />
     </task>
     <servers />
   </component>
