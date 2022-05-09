@@ -20,9 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ce6dc1-6647-4e92-a89c-6a9280c1d068" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss5_form_table/tao _bang_nang_cao.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_form_table/tao_bang_nang_cao_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6_javascript/hien_thi_dau_ra.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6_javascript/hien_thi_dau_ra_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6_javascript/hien_thi_dau_ra_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6_javascript/hien_thi_dau_ra_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6_javascript/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6_javascript/nhung_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6_javascript/nhung_javascript_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6_javascript/nhung_javascript_3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_form_table/tao_bang_don_gian.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_form_table/tao_bang_don_gian.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -82,6 +90,9 @@
       <workItem from="1651838359040" duration="2139000" />
       <workItem from="1651843826035" duration="452000" />
       <workItem from="1651976230569" duration="6936000" />
+      <workItem from="1651983944895" duration="602000" />
+      <workItem from="1652067735991" duration="64000" />
+      <workItem from="1652067985729" duration="4414000" />
     </task>
     <servers />
   </component>
