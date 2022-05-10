@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="123">
+<p id="result">0</p>
+<button type="button" onclick="chuyendoi()">Chuyển đổi</button>
+<script>
+    function chuyendoi() {
+        let a = document.getElementById(123).value;
+        let chuyendoi = 'chuyen doi: ' + ((9*a+160)/5);
+        document.getElementById('result').innerHTML = chuyendoi;
+
+    }
+</script>
+
+</body>
+</html>

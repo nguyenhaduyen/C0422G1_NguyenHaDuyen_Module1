@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="ly"><br>
+<b>Lý</b> <br>
+<input type="text" id="hoa">  <br>
+<b>Hóa</b> <br>
+<input type="text" id="sinh"> <br>
+<b>Sinh</b> <br>
+<p id="result">0</p>
+<p id="result1">0</p>
+<button type="button" onclick="sum()">sum</button>
+<button type="button" onclick="trungbinh()">trungbinh</button>
+<script>
+    function sum() {
+        let a = document.getElementById("ly").value;
+        let b = document.getElementById("hoa").value;
+        let c = document.getElementById("sinh").value;
+        let sum = 'Tong: ' + (a + b + c);
+        document.getElementById('result').innerHTML = sum;
+    }
+        function trungbinh(){
+            let a = document.getElementById("ly").value;
+            let b = document.getElementById("hoa").value;
+            let c = document.getElementById("sinh").value;
+        let trungbinh = 'Trung bình: ' + ((a+b+c)/3);
+        document.getElementById('result1').innerHTML = trungbinh;
+    }
+</script>
+</body>
+</html>
+
+
+
+
+
