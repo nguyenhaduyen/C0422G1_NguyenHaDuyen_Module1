@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let nhapten = prompt('nhap ten tu ban phim:','');
+    if (nhapten == 'Admin') {
+        let matkhau = prompt('password: ');
+        if (matkhau == 'TheMaster') {
+            alert('Welcome');
+        } else if (matkhau == 'null') {
+            alert('Canceled');
+        } else {
+            alert('wrong password');
+        }
+    }
+        else if (nhapten == 'null') {
+            alert('canceled')
+        }
+     else {
+        alert("I don't know you");
+    }
+</script>
+
+</body>
+</html>

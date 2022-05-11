@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<b>r</b><br>
+<input type="text" id="bankinh">
+<button type="button" onclick="ketqua()" >ket qua dien tich hinh tron</button>
+<button type="button" onclick="ketqua1()">ket qua chu vi hinh tron</button>
+<p id="result">dapso</p>
+<p id="result1">dapso</p>
+
+<script>
+    function ketqua() {
+        let R= document.getElementById('bankinh').value;
+        let dientichhinhtron= "dien tich hinh tron la "+ (R*R*3.14);
+        document.getElementById('result').innerHTML =dientichhinhtron;
+    }
+    function ketqua1() {
+        let R= document.getElementById('bankinh').value;
+        let chuvihinhtron= "chu vi hinh tron la " + (R*2*3.14);
+        document.getElementById('result1').innerHTML =chuvihinhtron;
+    }
+
+</script>
+
+</body>
+</html>
