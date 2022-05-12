@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div{
+            width: 480px;
+            border: 1px solid black;
+            background-color: yellow;
+
+        }
+        button{
+            width: 40px;
+        }
+        input {
+            width: 97%;
+        }
+        table {
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<form name="maytinh">
+<table  cellspacing="5" cellpadding="10" id="">
+    <tr>
+        <td colspan="7"> <input id="abc" type="text" name="screen" value=""> </td>
+    </tr>
+
+    <tr>
+        <td><input type="button" name="so" type="button" onclick="(screen.value += '7')" value="7"></td>
+        <td><input type="button" name="so" type="button" onclick="(screen.value += '8')" value="8"></td>
+        <td><input type="button" name="so" type="button" onclick="(screen.value += '9')" value="9"></td>
+        <td><input  type="button" onclick="(screen.value += '/')" value="/"></td>
+    </tr>
+    <tr>
+        <td><input type="button" name="so" type="button" onclick="(screen.value += '4')" value="4"></td>
+        <td><input type="button" name="so" type="button" onclick="(screen.value += '5')" value="5"></td>
+        <td><input type="button" name="so" type="button" onclick="(screen.value += '6')" value="6"></td>
+        <td><input  type="button" onclick="(screen.value += '*')" value="*"></td>
+    </tr>
+    <tr>
+        <td><input type="button" name="so" type="button" onclick="(screen.value += '1')" value="1"></td>
+        <td><input type="button" name="so" type="button" onclick="(screen.value += '2')" value="2"></td>
+        <td><input type="button" name="so" type="button" onclick="(screen.value += '3')" value="3"></td>
+        <td><input  type="button" onclick="(screen.value += '-')" value="-"></td>
+    </tr>
+    <tr>
+        <td><button name="so" type="button" onclick="nhapso()" value="0">0</td>
+        <td><button type="button" onclick=".">.</td>
+        <td style="background-color: blue"><input type="button" onclick="bang()" value="="></td>
+        <td><input  type="button" onclick="(screen.value += '+')" value="+"></td>
+    </tr>
+    <tr><td><input type="button" value="AC" onclick="(screen.value = '')"></td></tr>
+</table>
+</form>
+<script>
+    function bang() {
+       maytinh.screen.value =   eval(maytinh.screen.value);
+    }
+</script>
+
+</body>
+</html>

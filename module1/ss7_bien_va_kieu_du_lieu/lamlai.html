@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="ly">
+<input type="text" id="sinh">
+<input type="text" id="hoa">
+<p id="result">0</p>
+<p id="result1">0</p>
+<button type="button" onclick="nut()">sum</button>
+<button type="button" onclick="nut1()">average</button>
+<script>
+    function nut() {
+        let a = document.getElementById("ly").value;
+        let b = document.getElementById("hoa").value;
+        let c = document.getElementById("sinh").value;
+        let tong = 'Tong la ' + a + b + c;
+        document.getElementById("result").innerHTML = tong
+    }
+        function nut1 () {
+            let a = document.getElementById("ly").value;
+            let b = document.getElementById("hoa").value;
+            let c = document.getElementById("sinh").value;
+            let trungbinh = 'Trungbinh la ' + (a+b+c)/3;
+            document.getElementById("result1").innerHTML = trungbinh
+
+        }
+
+</script>
+</body>
+</html>

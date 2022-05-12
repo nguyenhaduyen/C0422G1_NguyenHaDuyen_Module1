@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="nhapso">
+<button type="button" onclick="nut()">click</button>
+<p id="kq">0</p>
+</body>
+<script>
+    function nut() {
+        let a = document.getElementById('nhapso').value;
+        let b = 1.8 * a + 32;
+        document.getElementById('kq').innerHTML = 'nhiet do la ' + b;
+    }
+</script>
+</html>

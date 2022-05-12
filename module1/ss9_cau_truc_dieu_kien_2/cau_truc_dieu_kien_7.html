@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<select id="vung">
+    <option>Nội địa</option>
+    <option>Liên tỉnh</option>
+</select>
+<p><b>Số phút đã gọi </b></p>
+<input type="text" id="phut">
+<button type="button" onclick="kq()"> Click </button>
+<p id="result">0</p>
+</body>
+<script>
+    function kq() {
+        let area = document.getElementById('vung').value;
+        let time = document.getElementById('phut').value;
+        let cuoc;
+        let tiendt;
+        switch (area) {
+            case "Nội địa":
+                cuoc = 770; break;
+            case "Liên tỉnh":
+                cuoc = 220; break;
+        } tiendt = cuoc*time;
+        document.getElementById('result').innerHTML = "Tien dien thoai la " + tiendt
+    }
+</script>
+</html>

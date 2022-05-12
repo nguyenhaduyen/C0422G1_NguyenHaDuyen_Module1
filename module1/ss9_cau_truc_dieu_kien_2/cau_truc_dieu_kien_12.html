@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<select id="thang">
+    <option>1 tháng</option>
+    <option>3 tháng</option>
+    <option>6 tháng</option>
+    <option>9 tháng</option>
+    <option>12 tháng</option>
+</select>
+<input type="text" id="abc">
+<button type="button" onclick="nut()">click</button>
+<p id="kq">0</p>
+</body>
+<script>
+    function nut() {
+        let a = document.getElementById('thang').value;
+        let b = document.getElementById('abc').value;
+        let tienlai
+        let laisuat
+        switch (a) {
+            case "1 tháng":
+                laisuat = 0.1
+                break;
+            case "3 tháng"
+                laisuat = 0.2
+                break;
+            case 3: "6 tháng"
+                laisuat = 0.25
+                break;
+            case 4: "9 tháng"
+                laisuat = 0.3
+                break;
+            case 4: "12 tháng"
+                laisuat = 0.35
+                break;
+        }
+        tienlai = laisuat*b
+        document.getElementById('kq').innerHTML = "số tiền lãi được là " + tienlai
+    }
+</script>
+</html>

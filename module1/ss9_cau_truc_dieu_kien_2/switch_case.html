@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kiểm tra số ngày trong năm</title>
+</head>
+<body>
+<p><b>Kiểm tra số ngày trong năm</b></p>
+<input max="12" min="1" type="number" id="thang" style="width: 150px">
+<button type="button" onclick="bam()">Tính số ngày</button>
+<p id="result">0</p>
+<script>
+    function bam() {
+        let a = parseInt(document.getElementById('thang').value);
+        switch (a) {
+            case 1:
+            case 3:
+            case 5:
+            case 7:
+            case 8:
+            case 10:
+            case 12:
+                document.getElementById('result').innerHTML = 'Thang ' + a + ' có 31 ngày';
+             break;
+            case 4:
+            case 6:
+            case 8:
+            case 10:
+            case 12:
+                document.getElementById('result').innerHTML = 'Thang ' + a + ' có 30 ngày';
+                break;
+            case 2:
+                document.getElementById('result').innerHTML = 'Thang ' + a + ' có 28 ngày';
+                break;
+                default:
+                    document.getElementById('result').innerHTML = 'nhập sai';
+        }
+    }
+</script>
+</body>
+</html>

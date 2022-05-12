@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>Tính giá điện</p>
+<select id="bac">
+    <option>Bậc 1 (0 đến 50kWh)</option>
+    <option>Bậc 2 (51 đến 100kWh)</option>
+    <option>Bậc 3 (101 đến 200kWh)</option>
+    <option>Bậc 4 (201 đến 300kWh) </option>
+</select>
+<input type="text" id="sodien">
+<button type="button" onclick="nut()"> Click </button>
+<p id="kq">0</p>
+</body>
+<script>
+    function nut() {
+        let a = document.getElementById('bac').value;
+        let b = document.getElementById('sodien').value;
+        let tiendien
+        let cuoctheobac
+        switch (a) {
+            case "Bậc 1 (0 đến 50kWh)":
+                cuoctheobac = 1.678
+                break;
+            case "Bậc 2 (51 đến 100kWh)":
+                cuoctheobac = 1.734
+                break;
+            case "Bậc 3 (101 đến 200kWh)":
+                cuoctheobac = 2.014
+                break;
+            case "Bậc 4 (201 đến 300kWh)":
+                cuoctheobac = 2.536
+                break;
+        } tiendien = cuoctheobac*b
+        document.getElementById('kq').innerHTML = "so tien dien la: " + tiendien
+    }
+</script>
+</html>

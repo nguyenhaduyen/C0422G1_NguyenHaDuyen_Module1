@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="nhapso">
+<button type="button" onclick="nut()">click</button>
+<p id="kq">0</p>
+</body>
+<script>
+    function nut() {
+        let a = document.getElementById('nhapso').value;
+        let b = 0.1*a
+        if (a>10000000) {
+            document.getElementById('kq').innerHTML = "số tiền thuế cần đóng là " + b
+        } else {
+            document.getElementById('kq').innerHTML = "Bạn không cần đóng thuế"
+        }
+
+    }
+</script>
+</html>

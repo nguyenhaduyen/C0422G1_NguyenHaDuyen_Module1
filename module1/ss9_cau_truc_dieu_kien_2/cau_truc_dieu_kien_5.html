@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+</body>
+<script>
+    let a = parseInt(prompt('nhap diem bai kiem tra'))
+    let b = parseInt(prompt('nhap diem bai giua ky'))
+    let c = parseInt(prompt('nhap diem bai cuoi ky'))
+    let nanngluc = (a+b*2+c*3)/6
+    if (nanngluc >= 8) {
+        alert('xếp loại giỏi')
+    } else if (nanngluc >= 6.0) {
+        alert('xếp loại khá')
+    } else if (nanngluc > 5.0 || nanngluc == 5) {
+        alert('xếp loại trung bình')
+    } else {
+        alert('xếp loại yếu')
+    }
+</script>
+</html>
