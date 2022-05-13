@@ -20,30 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ce6dc1-6647-4e92-a89c-6a9280c1d068" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_lenh_switch_case.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_02_01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_02_03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_02_04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_02_06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_02_07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_02_08.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_02_09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_02_10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_02_12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_02_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/cau_truc_dieu_kien_7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/luyen_tap_cau_truc_dieu_kien.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/su_kien_chuot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/switch_case.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/tinh_chi_so_can_nang_co_the.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/ung_dung_may_tinh_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10_for_while_do/bai_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10_for_while_do/bai_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10_for_while_do/bai_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10_for_while_do/bai_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10_for_while_do/bai_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10_for_while_do/bai_6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,6 +102,10 @@
       <workItem from="1652250803221" duration="10731000" />
       <workItem from="1652319075208" duration="24606000" />
       <workItem from="1652365852320" duration="222000" />
+      <workItem from="1652367313526" duration="596000" />
+      <workItem from="1652412364452" duration="4503000" />
+      <workItem from="1652422956565" duration="3113000" />
+      <workItem from="1652436635505" duration="22000" />
     </task>
     <servers />
   </component>
