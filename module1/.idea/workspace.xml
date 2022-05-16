@@ -20,23 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ce6dc1-6647-4e92-a89c-6a9280c1d068" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss11/1-100.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/BAI_TAM_GIAC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/abc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/bai_2_giai_thua.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/bai_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/bai_tap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/bai_tap_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/bai_tap_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/bang_cuu_chuong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/day_chia_het_cho_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/in_day.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/tinh_tong_20_so_dau_tien.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/tong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/tong_30_so_chia_het_cho_7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_for_while_do/bai_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10_for_while_do/bai_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_form_table/tao_form_lay_survey_khach_hang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_form_table/tao_form_lay_survey_khach_hang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss11/bai_tap_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss11/bai_tap_4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +108,7 @@
       <workItem from="1652663775229" duration="2858000" />
       <workItem from="1652667100891" duration="7245000" />
       <workItem from="1652682499990" duration="9716000" />
-      <workItem from="1652692347067" duration="2254000" />
+      <workItem from="1652692347067" duration="3383000" />
     </task>
     <servers />
   </component>

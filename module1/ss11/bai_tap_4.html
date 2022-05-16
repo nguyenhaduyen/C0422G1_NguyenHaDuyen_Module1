@@ -8,29 +8,29 @@
 
 </body>
 <script>
-    let sl = 0;
-    let giatri = 2;
-    console.log(giatri);
-    while (sl!=20)
+    let number = 0;
+    let value = 2;
+
+    while (number!=20)
     {
-        let kq = true;
+        let result = true;
 
         // kiem tra co phai so nguyen to hay ko?
-        let kt = giatri - 1;
-        for(kt;kt>1;kt--)
+        let test = value - 1;
+        for(test;test>1;test--)
         {
-            if(giatri % kt == 0) {
-                kq = false;
+            if(value % test == 0) {
+                result = false;
             }
         }
 
-        if(kq == true)
+        if(result == true)
         {
-            document.write(giatri + ",<br>");
-            sl++;
+            document.write(value + ",<br>");
+            number++;
         }
 
-        giatri ++;
+        value ++;
 
     }
 
