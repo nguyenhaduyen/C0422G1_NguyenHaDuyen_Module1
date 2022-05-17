@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0ce6dc1-6647-4e92-a89c-6a9280c1d068" name="Default Changelist" comment="" />
+    <list default="true" id="a0ce6dc1-6647-4e92-a89c-6a9280c1d068" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bai_kiemtraxemcotongchuoiko.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss12/taovathaptacvoibang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss12/timgiatrilonnhattrongmang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss12_mang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,11 +57,12 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\C0422G1-nguyen ha duyen\module1\ss12" />
+      <recent name="D:\C0422G1-nguyen ha duyen\module1\ss4_git-html" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\C0422G1-nguyen ha duyen\module1\ss9_cau_truc_dieu_kien_2" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\C0422G1-nguyen ha duyen\module1\ss4_git-html" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -106,6 +113,8 @@
       <workItem from="1652667100891" duration="7245000" />
       <workItem from="1652682499990" duration="9716000" />
       <workItem from="1652692347067" duration="3679000" />
+      <workItem from="1652756936400" duration="3031000" />
+      <workItem from="1652762288566" duration="4232000" />
     </task>
     <servers />
   </component>
