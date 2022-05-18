@@ -5,25 +5,34 @@
     <title>Title</title>
 </head>
 <body>
-<h5>Từ điển</h5>
-<input type="text" id="volcabulary">
-<input type="button" onclick="search()" value="search">
-<div id="result"></div>
+<label for="string">Nhập từ: </label>
+<input type="text" name="" id="string">
+<button onclick="transcript()">Dịch</button>
+<p id="result"></p>
 <script>
-    function search() {
-       b =  document.getElementById("volcabulary").value;
-    let  English = ["ant","dog"]
-    let Vietnam =["con kiến","con chó"]
-    let a;
-    for (let i=0;i<English.length;i++) {
+    function transcript() {
+        let string = document.getElementById("string").value;
+        let array1 =[ "go", "school", "get"];
+        let array2 =[ "di", "truong", "nhan"];
+        let index_eng = 0;
+        let result = "";
+        for (let i = 0; i < array1.length; i++)
+        {
+            if (string == array1[i])
+            {
+                index_eng = i; //2
+                for (let j = 0; j < array2.length; j++)
+                {
+                    if (index_eng == j)
+                    { //2 == 2
+                        result = array2[j]; // táo
+                    }
+                }
+            }
+        }
+        document.getElementById("result").innerHTML = result;
 
-        a=English[i]+Vietnam[i]
     }
-  document.getElementById("result").innerHTML = a
-  }
-
-
 </script>
-
 </body>
 </html>
