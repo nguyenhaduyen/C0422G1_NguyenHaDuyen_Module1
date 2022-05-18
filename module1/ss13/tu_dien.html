@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h5>Từ điển</h5>
+<input type="text" id="volcabulary">
+<input type="button" onclick="search()" value="search">
+<div id="result"></div>
+<script>
+    function search() {
+       b =  document.getElementById("volcabulary").value;
+    let  English = ["ant","dog"]
+    let Vietnam =["con kiến","con chó"]
+    let a;
+    for (let i=0;i<English.length;i++) {
+
+        a=English[i]+Vietnam[i]
+    }
+  document.getElementById("result").innerHTML = a
+  }
+
+
+</script>
+
+</body>
+</html>
