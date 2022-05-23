@@ -20,9 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ce6dc1-6647-4e92-a89c-6a9280c1d068" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/luyen_tap_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyentap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss13/abc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss14/chuyen_doi_nhiet_do.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss14/chuyen_doi_tu_foot_sang_meter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss14/luyen_tap_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss14/so_nguyen_to.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss14/tao_va_goi_ham.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss14/tim_gia_tri_nho_nhat_cua_day.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ss13/luyen_tap_02.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss13/luyen_tap_02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss13/tu_dien.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss13/tu_dien.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +60,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -120,6 +129,11 @@
       <workItem from="1652876114525" duration="1390000" />
       <workItem from="1652877720313" duration="2761000" />
       <workItem from="1652880850925" duration="842000" />
+      <workItem from="1652924702586" duration="12545000" />
+      <workItem from="1652941875574" duration="8389000" />
+      <workItem from="1653018757853" duration="14900000" />
+      <workItem from="1653104956897" duration="47000" />
+      <workItem from="1653268647380" duration="538000" />
     </task>
     <servers />
   </component>
@@ -153,10 +167,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="373" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1652323543452" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1652666921271">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1652943261658">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1652666921271" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1652943261658" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1652864112169">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
