@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let numBer = prompt(' nhap so nguyen to can tim')
+    let count =0
+    let uoc =0
+    let snt =2
+    while(count != numBer){
+        for (i=2;i<snt;i++){
+            if (snt%i==0){
+                uoc++
+                break;
+            }
+        }if (uoc==0){
+            count++
+            document.write(snt+'<br>')
+        }snt++
+        uoc=0
+
+
+    }
+</script>
+</body>
+</html>
