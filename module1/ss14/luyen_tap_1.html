@@ -41,15 +41,22 @@
     // compare(num1,num2)
 
     // // bai 5
-    // let arr1 = ["Polaris", "Aldebaran", "Deneb", "Vega", "Altair", "Dubhe", "Regulus"]
-    // let arr2 = ["Ursa Minor", "Tarurus", "Cygnus", "Lyra", "Aquila", "Ursa Major", "Leo"]
-    // function find() {
-    //     let word = prompt('nhap ten')
-    //     for (i=0;i<arr1.length;i++) {
-    //         if (word === arr1[i]) {
-    //             document.write(arr2[i])
-    //         }
-    //     } } find()
+    let arr1 = ["Polaris", "Aldebaran", "Deneb", "Vega", "Altair", "Dubhe", "Regulus"]
+    let arr2 = ["Ursa Minor", "Tarurus", "Cygnus", "Lyra", "Aquila", "Ursa Major", "Leo"]
+    function find() {
+        let count = 0
+        let word = prompt('nhap ten')
+        for (let i=0;i<arr1.length;i++) {
+            if (word === arr1[i]) {
+                count++
+                document.write(arr2[i])
+                break;
+            }
+        }
+        if (count ===0) {
+            document.write('khong tim thay sao')
+        }
+    } find()
 
 
 
