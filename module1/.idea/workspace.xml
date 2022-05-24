@@ -20,20 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ce6dc1-6647-4e92-a89c-6a9280c1d068" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/case_study/case_study_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_study/case_study_loop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_study/casestudy_if.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss14/123.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss16/motahinhchunhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss16/temperature.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss16/vehinhtron.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss16/xadunglopdate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai_kiemtraxemcotongchuoiko.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14/bai_kiemtraxemcotongchuoiko.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luyen_tap_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14/luyen_tap_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luyentap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14/luyentap1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss12_mang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14/ss12_mang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss13/luyen_tap_01.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss13/luyen_tap_01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss16/motahinhchunhat.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss16/motahinhchunhat.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +138,7 @@
       <workItem from="1653288059435" duration="11070000" />
       <workItem from="1653306484627" duration="8994000" />
       <workItem from="1653361500189" duration="8716000" />
-      <workItem from="1653373839286" duration="2676000" />
+      <workItem from="1653373839286" duration="3356000" />
     </task>
     <servers />
   </component>
