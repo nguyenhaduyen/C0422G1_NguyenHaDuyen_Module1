@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p> Nhập lương </p>
+<input type="text" id="nhap">
+<button type="button" onclick="btadd()">Tính</button>
+<p id="result">Thuế thu nhập </p>
+<p id ="result1">Lương ròng</p>
+<script>
+    function btadd() {
+        let a = document.getElementById("nhap").value;
+        let thue
+        let luongrong;
+        if (a>=15000000) {
+            thue = a*0.2
+            luongrong = a*0.8
+            document.getElementById("result").innerHTML = "Thuế phải nộp " + thue;
+            document.getElementById("result1").innerHTML = "Lương nhận được " +  luongrong;
+        } else if (a>=7000000) {
+            thue = a*0.1
+            luongrong = a*0.9
+            document.getElementById("result").innerHTML = "Thuế phải nộp " + thue;
+            document.getElementById("result1").innerHTML = "Lương nhận được " +  luongrong;
+        } else
+        {
+            thue = a*0.05
+            luongrong=a*0.95
+            document.getElementById("result").innerHTML = "Thuế phải nộp " + thue;
+            document.getElementById("result1").innerHTML = "Lương nhận được " +  luongrong;
+        }
+    }
+</script>
+</body>
+</html>

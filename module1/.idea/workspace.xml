@@ -20,11 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ce6dc1-6647-4e92-a89c-6a9280c1d068" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss13/in so nguyen to tư 1-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/case_study_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/case_study_loop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/casestudy_if.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss14/123.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss16/motahinhchunhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss16/temperature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss16/vehinhtron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss16/xadunglopdate.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luyen_tap_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/luyen_tap_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss14/kiemtratinhdoixung.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14/kiemtratinhdoixung.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss14/so_nguyen_to.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14/so_nguyen_to.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai_kiemtraxemcotongchuoiko.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14/bai_kiemtraxemcotongchuoiko.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luyen_tap_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14/luyen_tap_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luyentap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14/luyentap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_mang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14/ss12_mang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss13/luyen_tap_01.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss13/luyen_tap_01.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +67,13 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\C0422G1-nguyen ha duyen\module1\ss9_cau_truc_dieu_kien_2" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\C0422G1-nguyen ha duyen\module1\ss14" />
       <recent name="D:\C0422G1-nguyen ha duyen\module1\ss12" />
       <recent name="D:\C0422G1-nguyen ha duyen\module1\ss4_git-html" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\C0422G1-nguyen ha duyen\module1\ss9_cau_truc_dieu_kien_2" />
     </key>
   </component>
   <component name="RunManager">
@@ -138,7 +148,10 @@
       <workItem from="1653018757853" duration="14900000" />
       <workItem from="1653104956897" duration="47000" />
       <workItem from="1653268647380" duration="11998000" />
-      <workItem from="1653288059435" duration="6069000" />
+      <workItem from="1653288059435" duration="11070000" />
+      <workItem from="1653306484627" duration="8994000" />
+      <workItem from="1653361500189" duration="8716000" />
+      <workItem from="1653373839286" duration="2676000" />
     </task>
     <servers />
   </component>
@@ -208,10 +221,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1652943261658" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1652864112169">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1653297006986">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1652864112169" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1653297006986" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
